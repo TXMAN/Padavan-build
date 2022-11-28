@@ -125,5 +125,5 @@ jobs:
       uses: actions/upload-artifact@master
       if: always()
       with:
-        name: Padavan-packages-new
+        name: Padavan-packages-new-nano
         path: /opt/images
